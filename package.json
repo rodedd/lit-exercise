@@ -14,6 +14,6 @@
     "lit-element": "4.0.5"
   },
   "devDependencies": {
-    "es-dev-server": "2.1.0"
+    "es-dev-server": "^1.55.1"
   }
 }
